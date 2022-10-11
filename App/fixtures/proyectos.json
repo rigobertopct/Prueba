@@ -1,0 +1,80 @@
+[
+  {
+     "model": "App.Proyecto",
+     "pk": 1,
+     "fields": {
+      "nombre": "Varadero, un acercamiento a la ciudad digital",
+      "descrip": "ssss",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": null
+    }
+  },
+  {
+     "model": "App.Proyecto",
+     "pk": 2,
+     "fields": {
+      "nombre": "BIENESTAR",
+      "descrip": "Tiene como objetivo informatizar los procesos de Trámites y Servicios que brindan los organismos y entidades del Gobierno a la población, ahorrando cuantiosos recursos materiales y humanos mediante un uso eficiente de las Tecnologías de la Informática y las Comunicaciones",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": null
+    }
+  },
+  {
+     "model": "App.Proyecto",
+     "pk": 3,
+     "fields": {
+      "nombre": "SECRETGE",
+      "descrip": "Gestión de Cotejos de Títulos y certificación de notas en las Secretarías.",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": 2
+    }
+  },
+  {
+     "model": "App.Proyecto",
+     "pk": 4,
+     "fields": {
+      "nombre": "AcometGE",
+      "descrip": "Gestión de solicitud y prestación del servicio de instalación de acometida",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": 2
+    }
+  },
+  {
+     "model": "App.Proyecto",
+     "pk": 5,
+     "fields": {
+      "nombre": "LimFosaGE",
+      "descrip": "Gestión de solicitud y prestación del servicio de limpieza de fosa",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": 2
+    }
+  },
+  {
+     "model": "App.Proyecto",
+     "pk": 6,
+     "fields": {
+      "nombre": "EvenDepGE",
+      "descrip": "Gestión de la Programación de los Eventos Deportivos",
+      "fecha_inicio": "2022-07-08",
+      "activo": 1,
+      "imagen": " ",
+      "file": " ",
+      "programa": 2
+    }
+  }
+

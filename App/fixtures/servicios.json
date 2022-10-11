@@ -1,0 +1,15 @@
+[
+  {
+     "model": "App.Servicio",
+     "pk": 1,
+     "fields": {
+      "nombre": "Transformación Digital",
+      "descrip": "Capacitar,Diagnósticar y Acompañar en el proceso de diseño de la trasnformación digital de la entidad",
+      "activo": 1,
+      "imagen": " ",
+      "file": " "
+
+    }
+  }
+]
+
